@@ -2,7 +2,7 @@
 ### Author :  
 - [Sina Nazeri](https://www.linkedin.com/in/joseph-s-50398b136/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkML0101ENSkillsNetwork20718538-2021-01-01](https://www.linkedin.com/in/sina-nazeri/))
 
-Mentee Assignment from IBM Advance AI @ Infinite Learning Course completion of Create AI powered apps with open source LangChain from IBM Skills Network
+## Mentee Assignment from IBM Advance AI @ Infinite Learning Course completion of Create AI powered apps with open source LangChain from IBM Skills Network
 
 ### Mentee Info
 - Name    : Iffo Elsande Pratama Putra
