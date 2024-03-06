@@ -1,0 +1,13 @@
+Machine learning adalah cabang dari kecerdasan buatan yang berfokus pada pengembangan sistem komputer yang dapat belajar dari data, mengidentifikasi pola, dan membuat keputusan dengan minim intervensi manusia. Tujuan utama dari machine learning adalah untuk mengembangkan model dan algoritma yang memungkinkan komputer untuk belajar secara mandiri dari data yang ada, tanpa perlu pemrograman eksplisit untuk setiap tugas yang ingin dilakukan.
+
+Ada beberapa jenis machine learning, termasuk:
+
+1. Supervised Learning: Model machine learning diberi contoh input-output yang sesuai dan harus mempelajari hubungan antara input dan output untuk membuat prediksi atau mengklasifikasikan data baru.
+
+2. Unsupervised Learning: Model machine learning belajar dari data input tanpa label dan harus menemukan pola atau struktur di dalamnya sendiri.
+
+3. Reinforcement Learning: Model machine learning belajar melalui interaksi dengan lingkungan di mana ia menerima umpan balik positif atau negatif berdasarkan tindakan yang diambilnya.
+
+Selain itu, terdapat juga teknik-teknik seperti deep learning yang menggunakan jaringan saraf tiruan yang sangat kompleks untuk mengatasi masalah yang lebih kompleks, seperti pengenalan wajah, pemrosesan bahasa alami, dan lainnya.
+
+Machine learning telah menjadi dasar bagi banyak aplikasi dan teknologi modern, termasuk rekomendasi produk, analisis risiko keuangan, pengenalan suara dan wajah, otomatisasi proses industri, dan banyak lagi.
